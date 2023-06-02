@@ -1,0 +1,13 @@
+/control/execute sourcerunsetup.mac
+/Agata/file/enableLM
+/Agata/file/enableGammaLM
+/Agata/file/info/enableTime
+#/Agata/file/info/disablePosA
+#/Agata/file/info/enablePosI
+#/Agata/file/WriteToFifo true
+/Agata/file/info/enableNSeg
+/Agata/file/verbose 10
+/tracking/verbose 0
+/Agata/generator/emitter/SetGammaRaySource 1MeV_source_mul1 0.010
+/Agata/run/runNumber 00001
+/run/beamOn 30000
