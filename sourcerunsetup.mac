@@ -1,0 +1,11 @@
+/Agata/detector/traslateArray 0. 0. 0.
+/Agata/detector/solidFile ./A180/A180solid.list
+/Agata/detector/angleFile ./A180/A180euler1P.list
+/Agata/detector/wallsFile ./A180/A180walls.list
+/Agata/detector/clustFile ./A180/A180clust.list
+/Agata/detector/sliceFile ./A180/A180slice.list
+/Agata/detector/enableCapsules
+#/Agata/detector/wallThickness 4.0
+/process/inactivate Reaction
+/Agata/detector/update
+/grdm/allVolumes
